@@ -1,1 +1,2 @@
 text data we cant change 
+bug fix some one has been edited 
